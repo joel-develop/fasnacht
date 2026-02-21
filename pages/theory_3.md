@@ -36,3 +36,5 @@ Die Lebensmittelpyramide ist falsch! 
 Just beer every day keeps the doctor away. 🍺
 
 ![Neue Lebensmittelpyramide](../assets/Pyramide.png)
+
+> Author: Dr. Prof. Hopfen und Malz von Feldschlösschen

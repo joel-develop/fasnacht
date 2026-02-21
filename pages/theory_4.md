@@ -1,11 +1,10 @@
 ---
 title: Die geheimen Portale
-nav_order: 4
+nav_order: 5
 layout: default
-author: Kati
 ---
 
-Warum Waschmaschinen in Wahrheit Portale in eine Parallelwelt sind
+# Warum Waschmaschinen in Wahrheit Portale in eine Parallelwelt sind
 
 Hast du dich jemals gefragt, warum Socken verschwinden?
 

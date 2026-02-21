@@ -12,6 +12,9 @@ Zufall? Natürlich nicht.
 
 Die Theorie ist ebenso beunruhigend wie plausibel: Der echte Globi wird in Area 51 festgehalten – und ein Doppelgänger hat seinen Platz eingenommen.
 
+
+![Monkey](assets/Globi.png)
+
 Denk mal darüber nach:
 
 - Warum taucht dieses Muttermal exakt jetzt auf, wo hochauflösende Kameras jedes Detail zeigen?

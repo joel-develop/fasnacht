@@ -10,10 +10,10 @@ layout: home
 
 ## Unsere Forschungsgebiete
 
-- [Die Geheimen Drohnen der Elite](pages/theory_1)
-- [Free Globi](pages/theory_2)
 - [Bier als Grundlebensmittel](pages/theory_3)
 - [Die geheimen Portale](pages/theory_4)
+- [Free Globi](pages/theory_2)
+- [Die Geheimen Drohnen der Elite](pages/theory_1)
 
 
 ![Monkey](assets/monkey.gif)

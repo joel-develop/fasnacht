@@ -39,3 +39,9 @@ Du bist sicher, dass du zwei gleiche Socken hattest. Wochen später: Eine ist we
 
 Die eigentliche Frage ist also nicht, wo deine Socke ist.
 Die Frage ist: Was weiss deine Waschmaschine – und seit wann?
+
+Author: Prof. Dr. habil. Lavanda Wirbelstrom
+
+Quellen
+- [Forschungsbericht Interdimensionale Textilien und Portaltheorie](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)
+- [Sockenmigration und Raum-Zeit-Interaktion, Zentrum für Haushaltsanomalien](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)

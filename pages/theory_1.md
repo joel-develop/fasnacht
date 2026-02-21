@@ -26,3 +26,10 @@ Und bevor jetzt jemand sagt: „Aber ich habe doch schon mal ein Vogelnest geseh
 
 Am Ende bleibt nur eine Frage:
 Beobachtest du die Vögel – oder beobachten sie dich?
+
+Author: Dr. Prof. Ing. Albert Freistein
+
+Quellen
+- [Institut für Aviare Systemtechnik IAS, Jahresbericht 2025](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)
+- [Zentrum für Ornithologische Cybernetik, Forschungsreihe Project SkyNet](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)
+- [Recharge Behavior on Urban Power Lines](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)

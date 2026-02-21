@@ -43,3 +43,10 @@ Die Frage ist: Seit wann?
 
 Beobachtest du Globi –
 oder beobachtest du nur noch einen Algorithmus, während das Original irgendwo in der Wüste neben anderen Außerirdischen festgehalten wird? 👁️
+
+Author: Dr. Phil. Digitus Algorithmi
+
+Quellen
+- [Studie: Digitale Doppelgänger in Social Media](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)
+- [Weißbuch Area 51 – Sonderforschungsprojekt KI-Replikation](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)
+- [Von Abenteurer zu Algorithmus – Globi als Fallstudie](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)

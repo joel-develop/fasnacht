@@ -4,8 +4,7 @@ nav_order: 4
 layout: default
 ---
 
-
-# Warum Bier in Wahrheit die Basis der Ernährungspyramide ist (und warum man uns das verschweigt)
+# Warum Bier in Wahrheit die Basis der Ernährungspyramide ist
 
 Man hat uns jahrelang erzählt, unten in der Lebensmittelpyramide stünden Wasser, Gemüse und Getreide. Aber was, wenn dort in Wirklichkeit etwas ganz anderes hingehört?
 Bier.
@@ -37,4 +36,9 @@ Just beer every day keeps the doctor away. 🍺
 
 ![Neue Lebensmittelpyramide](../assets/Pyramide.png)
 
-> Author: Dr. Prof. Hopfen und Malz von Feldschlösschen
+
+Author: Dr. Prof. Hopfen und Malz von Feldschlösschen
+
+Quellen
+- [Institut für Flüssigbrotforschung 2024](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)
+- [Studie zur monoliquiden Ernährung, Hopfen-Edition](https://youtu.be/q-Y0bnx6Ndw?si=omVpBQc_e_oGl9Mw)

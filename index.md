@@ -4,7 +4,7 @@ nav_order: 1
 layout: home
 ---
 
-# Das Warheitskommitee
+# Das Wahrheitskommitee
 
 ![Neue Lebensmittelpyramide](assets/Group.jpg)
 

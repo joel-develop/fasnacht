@@ -34,7 +34,7 @@ Wer bei der Zahl 67 automatisch reagiert, hat bewiesen:
 
 Kurz gesagt: manipulierbar.
 
-Diese Kinder werden klassifiziert als „Prä-erwachsene nutzbare intravenöse Spender, kurz PENIS“.
+Diese Kinder werden klassifiziert als „Prä-erwachsene nutzbare intravenöse Spender“.
 
 Sie bilden die Vorselektion, damit die Theorie geheim bleibt.
 Denn nur wer den Test besteht, kommt überhaupt infrage.

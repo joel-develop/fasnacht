@@ -44,7 +44,7 @@ Ein Moment der Ablenkung.
 67-Euphorie. Hastige Handbewegungen. Gruppendynamik.
 Und in diesem winzigen Zeitfenster wird eine minimale Menge Blut entnommen. Kein Schmerz. Keine Erinnerung. Ein kleiner Stich, der sich anfühlt wie ein Fingernagel beim gegenseitigen Anrempeln. Denn die Nadel ist behandelt mit Schmerzmittel. Die Ernter hantieren absolut professionell und diskret.
 
-Das Gefährliche ist, dass bei der Injektion ebenfalls sogenannte Neuronenhemmer absichtlich ins Blut injiziert werden, welche die Reifung des Gehirns unterdrücken. So können auch in Zukunft „potentiell erwachsene nutzbare intravenöse individuelle Spender, kurz Peniis“ geerntet werden. 
+Das Gefährliche ist, dass bei der Injektion ebenfalls sogenannte Neuronenhemmer absichtlich ins Blut injiziert werden, welche die Reifung des Gehirns unterdrücken. So können auch in Zukunft „potentiell erwachsene nutzbare intravenöse individuelle Spender“ geerntet werden. 
 
 Das Blut verschwindet, aber nicht in Krankenhäusern.
 

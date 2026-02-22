@@ -6,7 +6,7 @@ layout: home
 
 # Das Wahrheitskommitee
 
-![Neue Lebensmittelpyramide](assets/Group.jpg)
+![Gruppenbild](assets/Group.jpg)
 
 ## Unsere Forschungsgebiete
 
@@ -14,6 +14,6 @@ layout: home
 - [Die geheimen Portale](pages/theory_4)
 - [Free Globi](pages/theory_2)
 - [Die Geheimen Drohnen der Elite](pages/theory_1)
-
+- [Die 67-Probe](pages/theory_5)
 
 ![Monkey](assets/monkey.gif)
